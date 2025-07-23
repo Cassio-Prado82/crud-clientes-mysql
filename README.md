@@ -45,7 +45,7 @@ O GIF ilustra como a classe implementa:
 ## 📝 Notas do Projeto
 
  **Contexto Acadêmico**:  
- Este é um projeto **fictício** desenvolvido para a disciplina **UPX II** da, com o objetivo de demonstrar a implementação de:  
+ Este é um projeto **fictício** desenvolvido para a disciplina **UPX II** da FACENS, com o objetivo de demonstrar a implementação de:  
  - Conexão JDBC com MySQL  
  - Operações CRUD em Java  
  - Boas práticas de estruturação de código 
